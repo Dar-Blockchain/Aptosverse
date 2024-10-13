@@ -1,5 +1,9 @@
 # Aptosverse
 
+<div align="center">
+  <img width="562" alt="screenshot" src="https://github.com/user-attachments/assets/676ddcb6-a473-40e5-b1c7-28df2bedaf84">
+</div>
+
 - **Summary**
     
     The "Aptosverse" is an ambitious metaverse project designed to encapsulate the entire Aptos blockchain ecosystem within a single, interconnected virtual space. As a comprehensive digital environment, the Aptosverse will offer users a wide array of interactive spaces, including coworking areas, event venues, training rooms, and decentralized finance (DeFi) hubs. This metaverse is envisioned as a dynamic platform that merges professional collaboration with financial innovation, providing users with unique opportunities to engage in staking, lending, and borrowing activities within dedicated DeFi rooms.
