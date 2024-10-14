@@ -18,11 +18,13 @@
   
 Run the below command to publish the contract on-chain:
 
-```npm run move:publish```
+```npm run move:publish``` 
 
 This command will:
 
 1. Publish the contract to chain.
+   
+   This is where we deployed ours in Testnet (aptosverse): ```0x6fab0b20a4153d4bd77046408d2b7f05137e4985f61caa58f38c8d683e08a0d8```
 2. Setting the ```VITE_MODULE_ADDRESS``` in the ```.env file``` to set the contract object address.
 
       **2. Run the app**
